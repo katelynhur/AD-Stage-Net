@@ -28,4 +28,4 @@
 - **Code & Models:** This GitHub repository  
 
 ## Disclure
-- OpenAI ChatGPT 5 and Google Gemini 2.5 were extensively used in constructing the codes in this repository.
+- OpenAI ChatGPT 5 and Google Gemini 2.5 assisted in writing the Python and Jupyter Notebook codes in this repository.
