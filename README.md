@@ -27,5 +27,24 @@ Across the three datasets, most single models and the ensemble achieved high acc
 
 ---
 
+## Directory Structure
+
+- **Code/**  
+  Contains Python and shell scripts for running the models on a local machine.
+
+- **Notebook/**  
+  Jupyter Notebooks tailored for use on Google Colab, including training and evaluation workflows.
+
+- **Results/**  
+  Select summary outputs from experiments, including leaderboards and best-performing model details.
+
+- **Data/**  
+  Downloaded compressed MRI image files used in this study, obtained from Kaggle and Hugging Face.
+
+- **HuggingFaceSpaces/**  
+  Files supporting deployment of the live demo on Hugging Face Spaces.
+
+---
+
 ## Disclure
 - OpenAI ChatGPT 5 and Google Gemini 2.5 assisted in writing the Python and Jupyter Notebook codes in this repository.
