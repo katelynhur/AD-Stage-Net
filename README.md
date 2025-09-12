@@ -46,5 +46,5 @@ Across the three datasets, most single models and the ensemble achieved high acc
 
 ---
 
-## Disclure
+## Disclosure
 - OpenAI ChatGPT 5 and Google Gemini 2.5 assisted in writing the Python and Jupyter Notebook codes in this repository.
