@@ -550,22 +550,26 @@ def _hero_css():
     
     /* === Scrollable tables ===
        Hit multiple possible wrappers Gradio uses across versions */
-    #singles-df [data-testid="dataframe"],
-    #singles-df .gr-dataframe,
-    #singles-df .wrap,
     #singles-df .overflow-auto,
+    #singles-df .wrap,
     #singles-df .table-wrap {
-        max-height: 220px !important;
-        overflow-y: auto !important;
+      max-height: 220px !important;
+      overflow: hidden !important;
+    }
+    #singles-df [data-testid="dataframe"] {
+      max-height: 220px !important;
+      overflow-y: auto !important;
     }
 
-    #pairs-df [data-testid="dataframe"],
-    #pairs-df .gr-dataframe,
-    #pairs-df .wrap,
     #pairs-df .overflow-auto,
+    #pairs-df .wrap,
     #pairs-df .table-wrap {
-        max-height: 220px !important;
-        overflow-y: auto !important;
+      max-height: 220px !important;
+      overflow: hidden !important;
+    }
+    #pairs-df [data-testid="dataframe"] {
+      max-height: 220px !important;
+      overflow-y: auto !important;
     }
     """
 
