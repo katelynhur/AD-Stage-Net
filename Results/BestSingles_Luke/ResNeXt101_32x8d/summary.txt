@@ -1,0 +1,6 @@
+Test Acc: 0.983581
+Loss: 0.072373
+Weights: /home/jung.hur/Alzheimers/Results/BestSingles/ResNeXt101_32x8d_best.pt
+ImageSize: 224
+Head: fc | dropout_in_head=no | dropout_p=0.3
+StrictLoad: True

@@ -1,0 +1,6 @@
+Test Acc: 0.558333
+Loss: 1.410633
+Weights: /home/jung.hur/Alzheimers/Results/BestSingles/MobileNetV2_best.pt
+ImageSize: 224
+Head: classifier | dropout_in_head=yes | dropout_p=0.3
+StrictLoad: True

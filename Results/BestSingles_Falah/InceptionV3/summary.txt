@@ -1,0 +1,6 @@
+Test Acc: 0.975781
+Loss: 0.101620
+Weights: /home/jung.hur/Alzheimers/Results/BestSingles/InceptionV3_best.pt
+ImageSize: 299
+Head: fc | dropout_in_head=yes | dropout_p=0.3
+StrictLoad: True

@@ -1,0 +1,107 @@
+{
+  "ResNeXt50_32x4d": {
+    "lr": 5e-05,
+    "label_smoothing": 0.05,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32
+  },
+  "ResNeXt101_32x8d": {
+    "lr": 5e-05,
+    "label_smoothing": 0.05,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32
+  },
+  "ResNet101": {
+    "lr": 5e-05,
+    "label_smoothing": 0.05,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32
+  },
+  "ResNet50": {
+    "lr": 5e-05,
+    "label_smoothing": 0.05,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32
+  },
+  "DenseNet201": {
+    "lr": 5e-05,
+    "label_smoothing": 0.05,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32
+  },
+  "DenseNet161": {
+    "lr": 5e-05,
+    "label_smoothing": 0.05,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32
+  },
+  "ResNet152": {
+    "lr": 5e-05,
+    "label_smoothing": 0.05,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32
+  },
+  "DenseNet169": {
+    "lr": 5e-05,
+    "label_smoothing": 0.05,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32
+  },
+  "InceptionV3": {
+    "lr": 5e-05,
+    "label_smoothing": 0.05,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32
+  },
+  "DenseNet121": {
+    "lr": 5e-05,
+    "label_smoothing": 0.05,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32
+  },
+  "MobileNetV3_L": {
+    "lr": 5e-05,
+    "label_smoothing": 0.05,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32
+  },
+  "VGG16": {
+    "lr": 5e-05,
+    "label_smoothing": 0.05,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32
+  },
+  "MobileNetV2": {
+    "lr": 5e-05,
+    "label_smoothing": 0.05,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32
+  },
+  "EffNetB0": {
+    "lr": 5e-05,
+    "label_smoothing": 0.05,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32
+  },
+  "CNN_Small": {
+    "lr": 5e-05,
+    "label_smoothing": 0.05,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32
+  }
+}

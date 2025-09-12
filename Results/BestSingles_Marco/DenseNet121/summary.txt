@@ -1,0 +1,6 @@
+Test Acc: 0.949167
+Loss: 0.155724
+Weights: /home/jung.hur/Alzheimers/Results/BestSingles/DenseNet121_best.pt
+ImageSize: 224
+Head: classifier | dropout_in_head=yes | dropout_p=0.3
+StrictLoad: True

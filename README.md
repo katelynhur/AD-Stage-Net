@@ -26,3 +26,6 @@
 ## Availability
 - **Demo:** [https://huggingface.co/spaces/katelynhur/AD-Stage-Net](https://huggingface.co/spaces/katelynhur/AD-Stage-Net)  
 - **Code & Models:** This GitHub repository  
+
+## Disclure
+- OpenAI ChatGPT 5 and Google Gemini 2.5 were extensively used in constructing the codes in this repository.

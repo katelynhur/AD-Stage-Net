@@ -1,0 +1,16 @@
+name,arch,family,source,cfg_hash,run_dir,img_size,batch_size,global_batch_size,lr,dropout,weight_decay,label_smoothing,test_acc__main,precision__main,recall__main,f1__main,test_acc__Marco,test_acc__Falah
+ResNeXt50_32x4d (eb48f7),ResNeXt50_32x4d,ResNeXt,single_arch,eb48f7ff32,~/Alzheimers/Results/Singles_Luke/ResNeXt50_32x4d/eb48f7ff32,224,11,32,5e-05,0.3,0.0001,0.05,0.9875097580015612,,,,0.865,0.9726775956284152
+ResNeXt101_32x8d (8dc5e5),ResNeXt101_32x8d,ResNeXt,single_arch,8dc5e53fdd,~/Alzheimers/Results/Singles_Luke/ResNeXt101_32x8d/8dc5e53fdd,224,11,32,5e-05,0.3,0.0001,0.05,0.9843871975019516,,,,0.8733333333333333,0.9789227166276346
+ResNet101 (00c217),ResNet101,ResNet,single_arch,00c217409f,~/Alzheimers/Results/Singles_Luke/ResNet101/00c217409f,224,11,32,5e-05,0.3,0.0001,0.05,0.9797033567525372,,,,0.8541666666666666,0.9750195160031224
+ResNet50 (eed3bb),ResNet50,ResNet,single_arch,eed3bbda52,~/Alzheimers/Results/Singles_Luke/ResNet50/eed3bbda52,224,11,32,5e-05,0.3,0.0001,0.05,0.9781420765027322,,,,0.89,0.9726775956284152
+DenseNet201 (e1fb67),DenseNet201,DenseNet,single_arch,e1fb67d4e0,~/Alzheimers/Results/Singles_Luke/DenseNet201/e1fb67d4e0,224,11,32,5e-05,0.3,0.0001,0.05,0.9773614363778298,,,,0.95,0.9781420765027322
+DenseNet161 (e2f2c4),DenseNet161,DenseNet,single_arch,e2f2c40e66,~/Alzheimers/Results/Singles_Luke/DenseNet161/e2f2c40e66,224,11,32,5e-05,0.3,0.0001,0.05,0.9750195160031224,,,,0.885,0.975800156128025
+ResNet152 (b54d91),ResNet152,ResNet,single_arch,b54d916372,~/Alzheimers/Results/Singles_Luke/ResNet152/b54d916372,224,11,32,5e-05,0.3,0.0001,0.05,0.9750195160031224,,,,0.8091666666666667,0.9804839968774396
+DenseNet169 (fcf2b6),DenseNet169,DenseNet,single_arch,fcf2b63f9e,~/Alzheimers/Results/Singles_Luke/DenseNet169/fcf2b63f9e,224,11,32,5e-05,0.3,0.0001,0.05,0.9734582357533176,,,,0.8991666666666667,0.9773614363778298
+InceptionV3 (9cf706),InceptionV3,Inception,single_arch,9cf70656d9,~/Alzheimers/Results/Singles_Luke/InceptionV3/9cf70656d9,299,5,32,5e-05,0.3,0.0001,0.05,0.9726775956284152,,,,0.72,0.97423887587822
+DenseNet121 (1096ae),DenseNet121,DenseNet,single_arch,1096aeec6c,~/Alzheimers/Results/Singles_Luke/DenseNet121/1096aeec6c,224,11,32,5e-05,0.3,0.0001,0.05,0.9672131147540984,,,,0.8458333333333333,0.9617486338797814
+MobileNetV3_L (d44d59),MobileNetV3_L,MobileNetV3,single_arch,d44d59d55e,~/Alzheimers/Results/Singles_Luke/MobileNetV3_L/d44d59d55e,224,11,32,5e-05,0.3,0.0001,0.05,0.9633099141295862,,,,0.7725,0.8844652615144418
+VGG16 (708727),VGG16,VGG,single_arch,708727df98,~/Alzheimers/Results/Singles_Luke/VGG16/708727df98,224,11,32,5e-05,0.3,0.0001,0.05,0.9617486338797814,,,,0.8891666666666667,0.9625292740046838
+MobileNetV2 (fbdea4),MobileNetV2,MobileNetV2,single_arch,fbdea42b98,~/Alzheimers/Results/Singles_Luke/MobileNetV2/fbdea42b98,224,11,32,5e-05,0.3,0.0001,0.05,0.9461358313817332,,,,0.7075,0.8883684621389539
+EffNetB0 (4b7d98),EffNetB0,EffNet,single_arch,4b7d9889be,~/Alzheimers/Results/Singles_Luke/EffNetB0/4b7d9889be,224,11,32,5e-05,0.3,0.0001,0.05,0.9437939110070258,,,,0.7083333333333334,0.9508196721311476
+CNN_Small (116c12),CNN_Small,CNN_Small,single_arch,116c12a036,~/Alzheimers/Results/Singles_Luke/CNN_Small/116c12a036,224,11,32,5e-05,0.3,0.0001,0.05,0.3715846994535519,,,,0.2516666666666666,0.3473848555815769

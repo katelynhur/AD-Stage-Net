@@ -1,0 +1,152 @@
+[
+  {
+    "arch": "CNN_Small",
+    "cfg_hash": "14fa3aa183",
+    "source_run_dir": "~/Alzheimers/Results/ArchSweep/CNN_Small/14fa3aa183",
+    "src_best": "~/Alzheimers/Results/ArchSweep/CNN_Small/14fa3aa183/best.pt",
+    "dst_file": "~/Alzheimers/Results/BestSingles/CNN_Small_best.pt",
+    "test_acc": 0.4605776736924278,
+    "best_val_acc": 0.5588091752074182,
+    "img_size": 224
+  },
+  {
+    "arch": "ResNet50",
+    "cfg_hash": "bc9b7fdcd4",
+    "source_run_dir": "~/Alzheimers/Results/ArchSweep/ResNet50/bc9b7fdcd4",
+    "src_best": "~/Alzheimers/Results/ArchSweep/ResNet50/bc9b7fdcd4/best.pt",
+    "dst_file": "~/Alzheimers/Results/BestSingles/ResNet50_best.pt",
+    "test_acc": 0.9797033567525372,
+    "best_val_acc": 0.9877989263055148,
+    "img_size": 224
+  },
+  {
+    "arch": "ResNet101",
+    "cfg_hash": "7e613879ca",
+    "source_run_dir": "~/Alzheimers/Results/ArchSweep/ResNet101/7e613879ca",
+    "src_best": "~/Alzheimers/Results/ArchSweep/ResNet101/7e613879ca/best.pt",
+    "dst_file": "~/Alzheimers/Results/BestSingles/ResNet101_best.pt",
+    "test_acc": 0.9867291178766588,
+    "best_val_acc": 0.9887750122010736,
+    "img_size": 224
+  },
+  {
+    "arch": "ResNet152",
+    "cfg_hash": "8e03657098",
+    "source_run_dir": "~/Alzheimers/Results/ArchSweep/ResNet152/8e03657098",
+    "src_best": "~/Alzheimers/Results/ArchSweep/ResNet152/8e03657098/best.pt",
+    "dst_file": "~/Alzheimers/Results/BestSingles/ResNet152_best.pt",
+    "test_acc": 0.9781420765027322,
+    "best_val_acc": 0.985358711566618,
+    "img_size": 224
+  },
+  {
+    "arch": "DenseNet121",
+    "cfg_hash": "cf96250e85",
+    "source_run_dir": "~/Alzheimers/Results/ArchSweep/DenseNet121/cf96250e85",
+    "src_best": "~/Alzheimers/Results/ArchSweep/DenseNet121/cf96250e85/best.pt",
+    "dst_file": "~/Alzheimers/Results/BestSingles/DenseNet121_best.pt",
+    "test_acc": 0.9836065573770492,
+    "best_val_acc": 0.990239141044412,
+    "img_size": 224
+  },
+  {
+    "arch": "DenseNet161",
+    "cfg_hash": "5e45b5ea33",
+    "source_run_dir": "~/Alzheimers/Results/ArchSweep/DenseNet161/5e45b5ea33",
+    "src_best": "~/Alzheimers/Results/ArchSweep/DenseNet161/5e45b5ea33/best.pt",
+    "dst_file": "~/Alzheimers/Results/BestSingles/DenseNet161_best.pt",
+    "test_acc": 0.989071038251366,
+    "best_val_acc": 0.9907271839921912,
+    "img_size": 224
+  },
+  {
+    "arch": "DenseNet169",
+    "cfg_hash": "86681fbf46",
+    "source_run_dir": "~/Alzheimers/Results/ArchSweep/DenseNet169/86681fbf46",
+    "src_best": "~/Alzheimers/Results/ArchSweep/DenseNet169/86681fbf46/best.pt",
+    "dst_file": "~/Alzheimers/Results/BestSingles/DenseNet169_best.pt",
+    "test_acc": 0.9867291178766588,
+    "best_val_acc": 0.9882869692532944,
+    "img_size": 224
+  },
+  {
+    "arch": "DenseNet201",
+    "cfg_hash": "c831e5b896",
+    "source_run_dir": "~/Alzheimers/Results/ArchSweep/DenseNet201/c831e5b896",
+    "src_best": "~/Alzheimers/Results/ArchSweep/DenseNet201/c831e5b896/best.pt",
+    "dst_file": "~/Alzheimers/Results/BestSingles/DenseNet201_best.pt",
+    "test_acc": 0.9882903981264636,
+    "best_val_acc": 0.990239141044412,
+    "img_size": 224
+  },
+  {
+    "arch": "EffNetB0",
+    "cfg_hash": "3ffb7bc9ec",
+    "source_run_dir": "~/Alzheimers/Results/ArchSweep/EffNetB0/3ffb7bc9ec",
+    "src_best": "~/Alzheimers/Results/ArchSweep/EffNetB0/3ffb7bc9ec/best.pt",
+    "dst_file": "~/Alzheimers/Results/BestSingles/EffNetB0_best.pt",
+    "test_acc": 0.9687743950039032,
+    "best_val_acc": 0.9848706686188384,
+    "img_size": 224
+  },
+  {
+    "arch": "MobileNetV2",
+    "cfg_hash": "2931932146",
+    "source_run_dir": "~/Alzheimers/Results/ArchSweep/MobileNetV2/2931932146",
+    "src_best": "~/Alzheimers/Results/ArchSweep/MobileNetV2/2931932146/best.pt",
+    "dst_file": "~/Alzheimers/Results/BestSingles/MobileNetV2_best.pt",
+    "test_acc": 0.9625292740046838,
+    "best_val_acc": 0.9834065397755004,
+    "img_size": 224
+  },
+  {
+    "arch": "MobileNetV3_L",
+    "cfg_hash": "996475d664",
+    "source_run_dir": "~/Alzheimers/Results/ArchSweep/MobileNetV3_L/996475d664",
+    "src_best": "~/Alzheimers/Results/ArchSweep/MobileNetV3_L/996475d664/best.pt",
+    "dst_file": "~/Alzheimers/Results/BestSingles/MobileNetV3_L_best.pt",
+    "test_acc": 0.981264637002342,
+    "best_val_acc": 0.9848706686188384,
+    "img_size": 224
+  },
+  {
+    "arch": "ResNeXt50_32x4d",
+    "cfg_hash": "7e84631050",
+    "source_run_dir": "~/Alzheimers/Results/ArchSweep/ResNeXt50_32x4d/7e84631050",
+    "src_best": "~/Alzheimers/Results/ArchSweep/ResNeXt50_32x4d/7e84631050/best.pt",
+    "dst_file": "~/Alzheimers/Results/BestSingles/ResNeXt50_32x4d_best.pt",
+    "test_acc": 0.9843871975019516,
+    "best_val_acc": 0.99170326988775,
+    "img_size": 224
+  },
+  {
+    "arch": "ResNeXt101_32x8d",
+    "cfg_hash": "3267f67289",
+    "source_run_dir": "~/Alzheimers/Results/ArchSweep/ResNeXt101_32x8d/3267f67289",
+    "src_best": "~/Alzheimers/Results/ArchSweep/ResNeXt101_32x8d/3267f67289/best.pt",
+    "dst_file": "~/Alzheimers/Results/BestSingles/ResNeXt101_32x8d_best.pt",
+    "test_acc": 0.9836065573770492,
+    "best_val_acc": 0.9907271839921912,
+    "img_size": 224
+  },
+  {
+    "arch": "VGG16",
+    "cfg_hash": "90df091f5f",
+    "source_run_dir": "~/Alzheimers/Results/ArchSweep/VGG16/90df091f5f",
+    "src_best": "~/Alzheimers/Results/ArchSweep/VGG16/90df091f5f/best.pt",
+    "dst_file": "~/Alzheimers/Results/BestSingles/VGG16_best.pt",
+    "test_acc": 0.9804839968774396,
+    "best_val_acc": 0.990239141044412,
+    "img_size": 224
+  },
+  {
+    "arch": "InceptionV3",
+    "cfg_hash": "753305689a",
+    "source_run_dir": "~/Alzheimers/Results/ArchSweep/InceptionV3/753305689a",
+    "src_best": "~/Alzheimers/Results/ArchSweep/InceptionV3/753305689a/best.pt",
+    "dst_file": "~/Alzheimers/Results/BestSingles/InceptionV3_best.pt",
+    "test_acc": 0.966432474629196,
+    "best_val_acc": 0.9858467545143972,
+    "img_size": 299
+  }
+]

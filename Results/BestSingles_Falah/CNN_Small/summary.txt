@@ -1,0 +1,6 @@
+Test Acc: 0.394531
+Loss: 1.355763
+Weights: /home/jung.hur/Alzheimers/Results/BestSingles/CNN_Small_best.pt
+ImageSize: 224
+Head: classifier | dropout_in_head=no | dropout_p=0.3
+StrictLoad: True
