@@ -1,4 +1,4 @@
-# AD-Stage-Net: Hybrid Deep Learning for Four-Stage Alzheimer’s MRI Classification  
+# AD-Stage-Net: AD-Stage-Net: Cross-Dataset AI Classification for Alzheimer’s Disease Using Brain MRI  
 **Katelyn Hur, Red River High School, Grand Forks, North Dakota**
 
 ## Abstract
